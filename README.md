@@ -8,6 +8,7 @@
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Apache](https://www.vectorlogo.zone/logos/apache/apache-official.svg)
 ![Portswigger](https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg)
+![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
 ![Hackerone](https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg)
 ![Owasp](https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg)
 
