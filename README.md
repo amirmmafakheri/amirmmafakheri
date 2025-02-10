@@ -7,7 +7,7 @@
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/apache/apache-official.svg)
 ![Docker](https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg)
-![Docker](https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg)
+![Docker](https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg)
 ![Docker](https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg)
 
 ## 
