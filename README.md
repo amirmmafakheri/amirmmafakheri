@@ -16,6 +16,7 @@
 ![Hackerone](https://raw.githubusercontent.com/pheralb/svgl/main/static/library/sql-server.svg)
 <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/aws.svg" alt="aws" width="50" height="50">
 <img src="https://vmc.digicert.com/e356d324-23fc-40da-ac12-384d26874513.svg" alt="flipper zero" width="50" height="50">
+![Hackerone](https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/wireshark-alt.svg)
 ![Owasp](https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg)
 
 
