@@ -4,7 +4,6 @@
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![Selenium](https://iconape.com/wp-content/files/yd/371438/svg/371438.svg)
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Apache](https://www.vectorlogo.zone/logos/apache/apache-official.svg)
