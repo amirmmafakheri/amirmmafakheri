@@ -25,7 +25,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg" alt="PortSwigger" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg" alt="HackerOne" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" alt="OWASP" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" alt="OWASP" width="100" height="100">
 
 
 
