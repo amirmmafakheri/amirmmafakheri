@@ -17,7 +17,7 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="Gnu" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash" width="500" height="500">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50">
