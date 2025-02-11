@@ -13,6 +13,7 @@
 ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
 ![Mysql](https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/metasploit.svg)
 ![Hackerone](https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg)
+![Hackerone](https://raw.githubusercontent.com/pheralb/svgl/main/static/library/sql-server.svg)
 ![Owasp](https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg)
 
 
