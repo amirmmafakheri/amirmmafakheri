@@ -12,7 +12,7 @@
 ![Portswigger](https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg)
 ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
 ![Mysql](https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/metasploit.svg)
-![Hackerone](https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg)
+![Hackerone](https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg)
 ![Hackerone](https://raw.githubusercontent.com/pheralb/svgl/main/static/library/sql-server.svg)
 <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/aws.svg" alt="aws" width="50" height="50">
 <img src="https://vmc.digicert.com/e356d324-23fc-40da-ac12-384d26874513.svg" alt="flipper zero" width="50" height="50">
