@@ -7,7 +7,7 @@
 <img src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg" alt="Selenium" width="50" height="50">
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
-<img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/apachehttpd.svg" alt="Selenium" width="50" height="50">
+<img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/apachehttpd.svg" alt="Selenium" width="150" height="150">
 <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Selenium" width="50" height="50">
 ![Portswigger](https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg)
 ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
