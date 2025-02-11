@@ -4,16 +4,15 @@
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-<img src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg" alt="Docker" width="50" height="50">
+<img src="https://iconape.com/wp-content/files/yd/371438/svg/371438.svg" alt="Selenium" width="50" height="50">
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Apache](https://www.vectorlogo.zone/logos/apache/apache-official.svg)
-![Portswigger](https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg)
+<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Selenium" width="50" height="50">
 ![Portswigger](https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg)
 ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
 ![Hackerone](https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg)
 ![Owasp](https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg)
-
 
 
 ## 
