@@ -11,6 +11,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Selenium" width="50" height="50">
 ![Portswigger](https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_of_PortSwigger.svg)
 ![Mysql](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
+![Mysql](https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/metasploit.svg)
 ![Hackerone](https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg)
 ![Owasp](https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg)
 
