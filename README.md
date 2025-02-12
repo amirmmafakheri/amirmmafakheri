@@ -1,6 +1,7 @@
 ## 
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![Gnu](https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg)
+![Gnu](https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/master/src/scalable/apps/kdeapp.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
