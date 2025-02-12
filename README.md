@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/aws.svg" alt="aws" width="50" height="50">
 <img src="https://vmc.digicert.com/e356d324-23fc-40da-ac12-384d26874513.svg" alt="flipper zero" width="50" height="50">
 ![Hackerone](https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/wireshark-alt.svg)
-<img src="[https://vmc.digicert.com/e356d324-23fc-40da-ac12-384d26874513.svg](https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg)" alt="flipper zero" width="50" height="50">
+<img src="https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg" alt="flipper zero" width="50" height="50">
 ![Owasp](https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg)
 
 
