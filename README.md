@@ -23,8 +23,11 @@
 ![Hackerone](https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/master/apps/scalable/wireshark-alt.svg)
 <img src="https://upload.vectorlogo.zone/logos/kali/images/324c35f9-62e7-40d5-8d50-3d64fa06ad0e.svg" alt="Kali linux" width="100" height="100">
 ![Owasp](https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg)
-
-
+![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg)
+![elastic](https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg)
+![grafana](https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg)
+![prometheusio](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg)
+![Playwright](https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg)
 ![Mongo](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 
 ## 
